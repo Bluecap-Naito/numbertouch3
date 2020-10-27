@@ -1,0 +1,8 @@
+メモ(ゲーム以外の流れをつくる）
+
+1.Clear.cppとClear.hを新規に追加し、PDFのように記述する
+
+2.Game.cppとGame.hをそれぞれPDFのように修正する
+
+3.SceneMgr.hとSceneMgr.cppをそれぞれPDFのように修正する
+
